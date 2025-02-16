@@ -11,9 +11,7 @@
 
 ### 현재 내 키 매핑
 ![스크린샷 2025-02-13 오후 11 38 21](https://github.com/user-attachments/assets/2002a6cf-c18e-4835-b0c9-0ee75f46c4c9)
-
-![스크린샷 2025-02-13 오후 11 38 36](https://github.com/user-attachments/assets/aac5bb8d-3ebd-4800-9f50-3a53cce71999)
-
+![스크린샷 2025-02-17 오전 8 31 35](https://github.com/user-attachments/assets/2946daae-3806-4a3d-a75b-21bd2efbcc3a)
 ![스크린샷 2025-02-13 오후 11 38 42](https://github.com/user-attachments/assets/9ac787b3-71a6-410c-9fd3-050e8cc7078c)
 
 ### 그리고.. 기본 vim 사용
