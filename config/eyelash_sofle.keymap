@@ -38,6 +38,15 @@
     behaviors {
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        korfj {
+            bindings = <&kp RIGHT_ALT>;
+            key-positions = <30 34>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
