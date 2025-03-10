@@ -45,6 +45,11 @@
             bindings = <&kp RIGHT_ALT>;
             key-positions = <30 34>;
         };
+
+        dk {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <35 29>;
+        };
     };
 
     keymap {
