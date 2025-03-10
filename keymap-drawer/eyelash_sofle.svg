@@ -640,6 +640,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="134" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="453" y="138" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-option"/>
 </g>
+<g class="combo backspace combopos-1">
+<path d="M462,140 l247,0" class="combo"/>
+<path d="M462,140 l-247,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="127" width="28" height="26" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="453" y="131" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">
@@ -1002,6 +1008,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="134" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="453" y="138" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-option"/>
 </g>
+<g class="combo backspace combopos-1">
+<path d="M462,140 l247,0" class="combo"/>
+<path d="M462,140 l-247,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="127" width="28" height="26" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="453" y="131" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-2">
@@ -1349,6 +1361,12 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="448" y="134" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="453" y="138" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-option"/>
 </g>
+<g class="combo backspace combopos-1">
+<path d="M462,140 l247,0" class="combo"/>
+<path d="M462,140 l-247,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="127" width="28" height="26" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="453" y="131" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-3">
@@ -1679,6 +1697,12 @@ rect.held, rect.combo.held {
 <path d="M462,147 l191,0" class="combo"/>
 <rect rx="6" ry="6" x="448" y="134" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-option" xlink:href="#mdi:apple-keyboard-option" x="453" y="138" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-option"/>
+</g>
+<g class="combo backspace combopos-1">
+<path d="M462,140 l247,0" class="combo"/>
+<path d="M462,140 l-247,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="127" width="28" height="26" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="453" y="131" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
 </g>
 </g>

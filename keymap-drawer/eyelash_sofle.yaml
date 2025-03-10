@@ -262,3 +262,5 @@ layers:
 combos:
 - p: [30, 34]
   k: $$mdi:apple-keyboard-option$$
+- p: [35, 29]
+  k: {t: '$$mdi:backspace$$', type: backspace}
