@@ -13,7 +13,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - F14
+  - SCROLLLOCK
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -54,7 +54,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:arrow-right-bold$$
   - $$mdi:volume-off$$
-  - F13
+  - PAUSE BREAK
   - LEFT WIN
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
