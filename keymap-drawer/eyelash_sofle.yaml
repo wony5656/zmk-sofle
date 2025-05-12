@@ -13,7 +13,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - Ins
+  - F14
   - $$mdi:keyboard-tab$$
   - Q
   - W
@@ -54,7 +54,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:arrow-right-bold$$
   - $$mdi:volume-off$$
-  - '3'
+  - F13
   - LEFT WIN
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
@@ -249,7 +249,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
