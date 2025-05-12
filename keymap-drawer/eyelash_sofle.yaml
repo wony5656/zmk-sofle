@@ -55,7 +55,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - $$mdi:volume-off$$
   - PAUSE BREAK
-  - LEFT WIN
+  - LMETA
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - layer1
